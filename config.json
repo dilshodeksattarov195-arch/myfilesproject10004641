@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperrave",
+        "uuid": 4019106,
+        "checksum": "kou9m6"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
